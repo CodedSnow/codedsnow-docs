@@ -20,4 +20,4 @@
 
 ## Partnerships
 
-* [Page 2](partnerships/page-2.md)
+* [CortexNode](partnerships/cortexnode.md)
